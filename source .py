@@ -4,8 +4,4 @@ print("Welcome to the movie TENET")
 
 print("Aniruth  is a protogonist")
 
-a=10
-
-print(a)
-
-print("Thankyou")
+print ("Aniruth is a King ")
